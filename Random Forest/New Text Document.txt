@@ -1,0 +1,2 @@
+https://xgboost.readthedocs.io/en/stable/parameter.html
+https://www.kdnuggets.com/2018/08/unveiling-mathematics-behind-xgboost.html
